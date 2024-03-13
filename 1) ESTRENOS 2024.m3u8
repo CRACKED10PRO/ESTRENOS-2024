@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:0 tvg-id="avi" group-title="2024",GODZILLA 2024
+http://daleplay.club:8080/movie/EdiSoN254/254eDiSoN/328208.mp4
 #EXTINF:0 tvg-id="avi" group-title="2024",Despertar del duelo (2023) (D)
 http://daleplay.club:8080/movie/jhonguerrero/promotvboz2022/329094.mp4
 #EXTINF:0 tvg-id="avi" group-title="2024",Otra bala más (2024) Latino (R)
