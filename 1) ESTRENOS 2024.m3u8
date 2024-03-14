@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="avi" group-title="2024",ASTRONAUTA 2025
+#EXTINF:0 tvg-id="avi" tvg-logo="https://cdn.resfu.com/img_data/competiciones/logo/45.png?size=300x&lossy=1" group-title="2024",ASTRONAUTA 2025
 http://daleplay.club:8080/movie/EdiSoN254/254eDiSoN/343443.mkv
 #EXTINF:0 tvg-id="avi" group-title="2024",Despertar del duelo (2023) (D)
 http://daleplay.club:8080/movie/jhonguerrero/promotvboz2022/329094.mp4
