@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRONAUTA 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/L1MAX.png" group-title="2024",ASTRONAUTA 2025
-http://daleplay.club:8080/movie/EdiSoN254/254eDiSoN/343443.mkv
 #EXTINF:0 tvg-id="avi" group-title="2024",Despertar del duelo (2023) (D)
 http://daleplay.club:8080/movie/jhonguerrero/promotvboz2022/329094.mp4
 #EXTINF:0 tvg-id="avi" group-title="2024",Otra bala más (2024) Latino (R)
@@ -469,4 +467,3 @@ https://castlempire.site:443/movie/Gskp274/G6DbgmZ6n4uV/335373.mkv
 https://castlempire.site:443/movie/Gskp274/G6DbgmZ6n4uV/335531.mkv
 #EXTINF:0 tvg-id="avi" group-title="2024",Damsel | HD (2024)
 https://castlempire.site:443/movie/Gskp274/G6DbgmZ6n4uV/335532.mkv
-
